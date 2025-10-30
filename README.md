@@ -230,8 +230,8 @@ return (0);
 
 ## OUTPUT:
 
-<img width="699" height="139" alt="image" src="https://github.com/user-attachments/assets/6a5399f6-e89b-43aa-b5fa-ef2b9d55a0b8" />
+<img width="701" height="155" alt="image" src="https://github.com/user-attachments/assets/68758a4f-a81a-447c-86cc-8538adc3733f" />
 
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.824321 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.007480 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
